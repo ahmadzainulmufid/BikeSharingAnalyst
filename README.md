@@ -7,7 +7,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 ## Struktur Direktori
 
 - **/data**: Direktori ini berisi data yang digunakan dalam proyek, dalam format .csv .
-- **/dashboard**: Direktori ini berisi main.py yang digunakan untuk membuat dashboard hasil analisis data.
+- **/dashboard**: Direktori ini berisi gambar dashboard.
 - **Bike_Sharing_Analyst.ipynb**: File ini yang digunakan untuk melakukan analisis data.
 
 ## Instalasi
@@ -30,6 +30,5 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 Masuk ke direktori proyek (Local):
 
 ```shell
-cd /dashboard/
-streamlit run dashboard.py
+streamlit run app.py
 ```

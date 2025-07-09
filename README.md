@@ -32,3 +32,7 @@ Masuk ke direktori proyek (Local):
 ```shell
 streamlit run app.py
 ```
+
+## Streamlit Cloud
+
+https://bikesharinganalyst-rixykxf8bcqgs8nxt9s63p.streamlit.app/

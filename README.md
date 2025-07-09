@@ -22,7 +22,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 
    ```shell
    pip install streamlit
-   pip install -r dashboard/requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Penggunaan
